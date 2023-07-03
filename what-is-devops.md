@@ -1,5 +1,4 @@
 # What is DevOps?
-# DevOps in a Nutshell
 
 - **Bridging the Gap**: DevOps serves as a bridge between development and operations teams, fostering collaboration and synergy throughout the software development process.
 - **Efficient and Agile**: By automating processes and emphasising continuous integration and delivery, DevOps enables faster development cycles, reducing time-to-market and increasing adaptability to changing requirements.
