@@ -13,3 +13,5 @@
 
 *In summary, DevOps is a transformative approach that unites development and operations, propelling software development with collaboration, automation, agility, and a customer-centric mindset.*
 
+#### Interview question what is DevOps?
+DevOps automates manual processes across the software delivery cycle. It allows for deployment of working software at a fast rate and then continuously improving the end product through further iteration. By collaborating development and operations is ensures that all parts of the software delivery cycle match by using the same environment throughout.
