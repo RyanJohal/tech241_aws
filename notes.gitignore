@@ -1,0 +1,1 @@
+ssh -i "~/.ssh/tech241.pem" ubuntu@ec2-54-247-20-124.eu-west-1.compute.amazonaws.com
