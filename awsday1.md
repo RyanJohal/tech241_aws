@@ -45,3 +45,6 @@ Inputting user data when launching an EC2 instance allows us to automate the run
 - Incompatibility with certain services: Some online services or applications may require devices with public IP addresses, making it necessary to use additional techniques like VPNs or port forwarding.
 
 It's important to note that public and private IP addresses serve different purposes and are often used in conjunction within a network. Public IPs are typically assigned to devices or services that require public accessibility, while private IPs are used for internal network communication.
+
+### Public IP of db in web browser, will it work?
+In short no. For a few reasons, firstly a web server hasn't been created by downloading nginx on this machine, secondly there are no http or https allowed in the nsg.
