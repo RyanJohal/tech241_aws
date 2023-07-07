@@ -11,10 +11,10 @@
 10. select average for stats
 11. Select the period of time you want it to check the alarm status
 In the All metrics tab, choose EC2 metrics.
-![Alt text](<Screenshot 2023-07-04 155240.png>)
+![Alt text](<images/Screenshot 2023-07-04 155240.png>)
 12. Select the percentage you want to be alerted at.
-![Alt text](<Screenshot 2023-07-04 155250.png>)
+![Alt text](<images/Screenshot 2023-07-04 155250.png>)
 13. Create new sns topic and enter email to be notified through
-![Alt text](<Screenshot 2023-07-04 155410.png>)
+![Alt text](<images/Screenshot 2023-07-04 155410.png>)
 14. Launch alarm and wait to be notified!
-![Alt text](<MicrosoftTeams-image (4).png>)
+![Alt text](<images/MicrosoftTeams-image (4).png>)

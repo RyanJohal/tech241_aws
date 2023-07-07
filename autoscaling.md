@@ -10,20 +10,20 @@ Auto scaling, in AWS, is a feature that adjusts the number of instances in a fle
 
 # Using autoscaling in aws
 1. Create auto scaling group
-![Alt text](<Screenshot 2023-07-06 162636.png>)
+![Alt text](<images/Screenshot 2023-07-06 162636.png>)
 2. Name auto scaling group
 3. Select launch template
- ![Alt text](<Screenshot 2023-07-06 162815.png>)  
+ ![Alt text](<images/Screenshot 2023-07-06 162815.png>)  
 4. Select availability zones and subnets
-![Alt text](<Screenshot 2023-07-06 163604.png>)
+![Alt text](<images/Screenshot 2023-07-06 163604.png>)
 5. Attach new load balancer based on your requirements (I used application and internet facing as this is for a web app)
-![Alt text](<Screenshot 2023-07-06 163826.png>)
+![Alt text](<images/Screenshot 2023-07-06 163826.png>)
 6. Select routing
 7. Turn on health checks
-![Alt text](<Screenshot 2023-07-06 163927.png>)
+![Alt text](<images/Screenshot 2023-07-06 163927.png>)
 8. Select desired numbers of vms to share load, minimum and maximum.
-![Alt text](<Screenshot 2023-07-06 164000.png>)
+![Alt text](<images/Screenshot 2023-07-06 164000.png>)
 9. Add tags so new instances have a name.
-![Alt text](<Screenshot 2023-07-06 164039.png>)
+![Alt text](<images/Screenshot 2023-07-06 164039.png>)
 10. Create your asg
 11. To check if it is working go to your load balancer and input dns into your web browser
